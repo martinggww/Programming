@@ -1,0 +1,13 @@
+Adapter pattern connects two independent interfaces
+A real example is a card reader reads memory card, then transfort data to laptop.
+Or connect to different open-changing APIs. Like if you are using the third-party apis 
+like paypay.sendMoney(), if paypal change the api to paypal.sendAmount(), then you'll
+have to change the codes everywhere.
+
+Adapter pattern is allowing the interface of an existing class to be used from other
+interfaces. It is used to make existing classes work with others without modifying their
+source codes.
+
+http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
+step 4
+
