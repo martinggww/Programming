@@ -8,6 +8,6 @@ Adapter pattern is allowing the interface of an existing class to be used from o
 interfaces. It is used to make existing classes work with others without modifying their
 source codes.
 
-http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm
-step 4
 
+Host,           adapter,                  adaptee
+has a adapter   adapter wrap up adaptee

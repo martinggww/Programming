@@ -1,12 +1,16 @@
 package DesignPattern.Adapter;
 
 public class MediaAdapter implements MediaPlayer{
+	//Defined an instance of advancedMediaPlayer
+	//private
 	AdvancedMediaPlayer advancedMediaPlayer;
+	
+	//constructor
 	public MediaAdapter(String audioType){
 		if(audioType.equalsIgnoreCase("Vlc"))
 			advancedMediaPlayer = new VlcPlayer();
 		else if(audioType.equalsIgnoreCase("Mp3"));
-			advancedMediaPlayer = new Mp3Player();
+			advancedMediaPlayer = new Mp4Player();
 	}
 	
 	@Override
@@ -15,8 +19,5 @@ public class MediaAdapter implements MediaPlayer{
 			advancedMediaPlayer.playVlc(audioName);
 		if(audioType.equalsIgnoreCase("Mp3"))
 			advancedMediaPlayer.playMp4(audioName);
-		
 	}
 }
-http://www.tutorialspoint.com/design_pattern/adapter_pattern.htm 
-	Step 4
