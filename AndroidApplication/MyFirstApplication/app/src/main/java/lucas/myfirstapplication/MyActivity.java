@@ -51,3 +51,4 @@ public class MyActivity extends ActionBarActivity {
         intent.putExtra(EXTRA_MESSAGE,message);
     }
 }
+

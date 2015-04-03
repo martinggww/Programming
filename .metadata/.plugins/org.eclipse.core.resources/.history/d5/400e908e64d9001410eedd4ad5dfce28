@@ -1,0 +1,21 @@
+package Algorithm.DFS_BFS;
+
+class Node{
+
+Node left;
+Node right;
+int value;
+	Node(int value){
+		this.value = value;
+		left = null;
+		right = null;
+	}
+}
+
+public class BFS {
+public static void main(String[] args)
+{
+	Node root = new Node(10);
+	printBFS(root);
+}
+}

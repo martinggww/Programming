@@ -1,0 +1,8 @@
+package Compiler;
+
+public class BaseNode {
+public:
+	Opcode op;
+	PrimType ptyp;
+
+}

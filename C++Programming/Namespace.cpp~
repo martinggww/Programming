@@ -1,0 +1,7 @@
+namespace Q{
+  namespace V{
+    void f();
+  }
+  void V::f(){} //ok
+  void V::g(){} //Error, g() is not yet a member of V
+}

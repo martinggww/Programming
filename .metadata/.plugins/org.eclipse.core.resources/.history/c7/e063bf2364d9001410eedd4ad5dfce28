@@ -1,0 +1,16 @@
+package Algorithm.DFS_BFS;
+
+private class Node{
+	Node left;
+	Node right;
+	int value;
+	Node(int value){
+		this.value = value;
+		left = null;
+		right = null;
+	}
+}
+
+public class BFS {
+
+}

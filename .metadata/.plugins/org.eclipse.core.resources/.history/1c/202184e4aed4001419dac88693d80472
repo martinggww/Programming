@@ -1,0 +1,10 @@
+package Compiler;
+
+public class BaseNode {
+public:
+	Opcode op;        // Defined in opcode list
+	PrimType ptyp;    // Defined in primitive type list
+public:
+	virtual BaseNode *opnd(int i){return null;}
+	
+}
