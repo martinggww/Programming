@@ -6,7 +6,6 @@ INDEX VERSION 1.126+/home/shawn/git/Programming/.metadata/.plugins/org.eclipse.j
 1735652360.index
 664741535.index
 2307328643.index
-2608895863.index
 3938652823.index
 989528713.index
 3180932626.index

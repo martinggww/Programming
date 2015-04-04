@@ -45,6 +45,12 @@
 <part id="11"/>
 <part id="12"/>
 <part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
 </presentation>
 </folder>
 </info>
@@ -101,9 +107,33 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/Compiler/MIRModule.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="47" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseNode.java" partName="BaseNode.java" path="/home/shawn/git/Programming/Programming/src/Compiler/BaseNode.java" title="BaseNode.java" tooltip="Programming/src/Compiler/BaseNode.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseNode.java" partName="BaseNode.java" path="/home/shawn/git/Programming/Programming/src/Compiler/BaseNode.java" title="BaseNode.java" tooltip="Programming/src/Compiler/BaseNode.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/Compiler/BaseNode.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="54" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MediaPlayer.java" partName="MediaPlayer.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/Adapter/MediaPlayer.java" title="MediaPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/MediaPlayer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/MediaPlayer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="121" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdvancedMediaPlayer.java" partName="AdvancedMediaPlayer.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java" title="AdvancedMediaPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="19" selectionOffset="49" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VlcPlayer.java" partName="VlcPlayer.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/Adapter/VlcPlayer.java" title="VlcPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/VlcPlayer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/VlcPlayer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="339" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mp4Player.java" partName="Mp4Player.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/Adapter/Mp4Player.java" title="Mp4Player.java" tooltip="Programming/src/DesignPattern/Adapter/Mp4Player.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/Mp4Player.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="336" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MediaAdapter.java" partName="MediaAdapter.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/Adapter/MediaAdapter.java" title="MediaAdapter.java" tooltip="Programming/src/DesignPattern/Adapter/MediaAdapter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/MediaAdapter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="647" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BFS.java" partName="BFS.java" path="/home/shawn/git/Programming/Programming/src/Algorithm/DFS_BFS/BFS.java" title="BFS.java" tooltip="Programming/src/Algorithm/DFS_BFS/BFS.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/Algorithm/DFS_BFS/BFS.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="836" selectionTopPixel="138"/>
 </editor>
 </editors>
 <views>
@@ -112,9 +142,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Errors"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="681" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -190,7 +217,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -389,177 +416,163 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Algorithm/AddTwoNumbers.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MirSymbol.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRStorageClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRConst.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRType.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRTypeKind.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRModule.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRConst.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MirSymbol.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRType.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/MIRStorageClass.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Compiler/BaseNode.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi.aspects(Aspect.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/XBRL/MyTest.java"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi(Arc.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi(ArcEnd.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi(ArcroleType.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi(AspectValueLabel.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi.xlink(ElementState.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi.xlink(XLinkException.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=XBRL/xbrlapi-6.2.jar&lt;org.xbrlapi.xlink(XLinkHandler.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/MediaPlayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/VlcPlayer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/Mp4Player.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/MediaAdapter.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Algorithm/DFS_BFS/BFS.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Algorithm/DFS_BFS/Node.java"/>
 </editors>
-<item historyLabel="AddTwoNumbers.java" index="0">
-<position info="not_deleted" x="2223" y="0"/>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="135" y="0"/>
 </item>
-<item historyLabel="AddTwoNumbers.java" index="0">
-<position info="not_deleted" x="1916" y="0"/>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="197" y="0"/>
 </item>
-<item historyLabel="MirSymbol.java" index="1">
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="AdvancedMediaPlayer.java" index="1">
+<position info="not_deleted" x="49" y="19"/>
+</item>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="253" y="0"/>
+</item>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="316" y="0"/>
+</item>
+<item historyLabel="VlcPlayer.java" index="2">
+<position info="not_deleted" x="0" y="339"/>
+</item>
+<item historyLabel="Mp4Player.java" index="3">
+<position info="not_deleted" x="336" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="161" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="202" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="243" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="289" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="402" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="443" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="331" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="570" y="0"/>
+</item>
+<item historyLabel="MediaPlayer.java" index="0">
+<position info="not_deleted" x="121" y="0"/>
+</item>
+<item historyLabel="AdvancedMediaPlayer.java" index="1">
+<position info="not_deleted" x="49" y="19"/>
+</item>
+<item historyLabel="MediaAdapter.java" index="4">
+<position info="not_deleted" x="647" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="847" y="0"/>
+</item>
+<item historyLabel="Node.java" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="847" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="634" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="628" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="662" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="830" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="263" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="283" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="308" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="392" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="415" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="473" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="579" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="567" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="333" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="335" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="688" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="747" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="498" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="545" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="350" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="378" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="375" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
+<position info="not_deleted" x="377" y="0"/>
+</item>
+<item historyLabel="BFS.java" index="5">
 <position/>
 </item>
-<item historyLabel="MIRStorageClass.java" index="2">
-<position info="not_deleted" x="153" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="126" y="0"/>
-</item>
-<item historyLabel="MIRStorageClass.java" index="2">
-<position info="not_deleted" x="151" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="200" y="0"/>
-</item>
-<item historyLabel="MIRConst.java" index="3">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="19" y="0"/>
-</item>
-<item historyLabel="MIRTypeKind.java" index="5">
-<position info="not_deleted" x="87" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="19" y="0"/>
-</item>
-<item historyLabel="MIRTypeKind.java" index="5">
-<position info="not_deleted" x="153" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
+<item active="true" historyLabel="BFS.java" index="5">
 <position/>
-</item>
-<item historyLabel="MIRTypeKind.java" index="5">
-<position info="not_deleted" x="153" y="0"/>
-</item>
-<item historyLabel="MIRConst.java" index="3">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="200" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position/>
-</item>
-<item historyLabel="MIRTypeKind.java" index="5">
-<position info="not_deleted" x="31" y="11"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="200" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="181" y="0"/>
-</item>
-<item historyLabel="MIRConst.java" index="3">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MIRStorageClass.java" index="2">
-<position info="not_deleted" x="151" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="181" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="1">
-<position info="not_deleted" x="181" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="4">
-<position info="not_deleted" x="71" y="0"/>
-</item>
-<item historyLabel="MIRModule.java" index="6">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MIRConst.java" index="7">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="8">
-<position info="not_deleted" x="181" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="9">
-<position info="not_deleted" x="73" y="0"/>
-</item>
-<item historyLabel="MIRStorageClass.java" index="10">
-<position info="not_deleted" x="151" y="0"/>
-</item>
-<item historyLabel="MIRModule.java" index="6">
-<position info="not_deleted" x="47" y="0"/>
-</item>
-<item historyLabel="MIRConst.java" index="7">
-<position info="not_deleted" x="57" y="0"/>
-</item>
-<item historyLabel="MIRType.java" index="9">
-<position info="not_deleted" x="45" y="0"/>
-</item>
-<item historyLabel="MirSymbol.java" index="8">
-<position info="not_deleted" x="200" y="0"/>
-</item>
-<item historyLabel="BaseNode.java" index="11">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="BaseNode.java" index="11">
-<position info="not_deleted" x="54" y="0"/>
-</item>
-<item historyLabel="Aspect.class" index="12">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MyTest.java" index="13">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Aspect.class" index="12">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="Arc.class" index="14">
-<position info="not_deleted" x="5714" y="0"/>
-</item>
-<item historyLabel="ArcEnd.class" index="15">
-<position info="not_deleted" x="113" y="17"/>
-</item>
-<item historyLabel="ArcroleType.class" index="16">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="AspectValueLabel.class" index="17">
-<position info="not_deleted" x="389" y="0"/>
-</item>
-<item historyLabel="ElementState.class" index="18">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="XLinkException.class" index="19">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="XLinkHandler.class" index="20">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item active="true" historyLabel="BaseNode.java" index="11">
-<position info="not_deleted" x="54" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -579,6 +592,30 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" tooltip="Programming/src/Algorithm/DFS_BFS/Node.java">
+<persistable path="/Programming/src/Algorithm/DFS_BFS/Node.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BFS.java" tooltip="Programming/src/Algorithm/DFS_BFS/BFS.java">
+<persistable path="/Programming/src/Algorithm/DFS_BFS/BFS.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MediaAdapter.java" tooltip="Programming/src/DesignPattern/Adapter/MediaAdapter.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/MediaAdapter.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Mp4Player.java" tooltip="Programming/src/DesignPattern/Adapter/Mp4Player.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/Mp4Player.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="VlcPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/VlcPlayer.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/VlcPlayer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdvancedMediaPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MediaPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/MediaPlayer.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/MediaPlayer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Adapter.java" tooltip="Programming/src/DesignPattern/Adapter/Adapter.java">
+<persistable path="/Programming/src/DesignPattern/Adapter/Adapter.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseNode.java" tooltip="Programming/src/Compiler/BaseNode.java">
 <persistable path="/Programming/src/Compiler/BaseNode.java"/>
 </file>

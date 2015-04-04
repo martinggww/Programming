@@ -1,3 +1,10 @@
 Learn Android Application Development.
 Strarting from tutorial 
 https://www.youtube.com/watch?v=m20n_GAsCtM
+
+Tutorial One:
+a. Android eco-system, open to solve problems.
+b. View, LinearLayout  
+c. String resources, use name as reference.
+d. Android API guides will show the reference how the attributes and behaivor works.
+   http://developer.android.com/guide/topics/ui/controls/text.html

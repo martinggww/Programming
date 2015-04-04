@@ -1,8 +1,0 @@
-package Compiler;
-
-public class BaseNode {
-public:
-	Opcode op;        // Defined in opcode list
-	PrimType ptyp;    // Defined in primitive type list
-
-}
