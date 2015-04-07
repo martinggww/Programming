@@ -8,3 +8,11 @@ b. View, LinearLayout
 c. String resources, use name as reference.
 d. Android API guides will show the reference how the attributes and behaivor works.
    http://developer.android.com/guide/topics/ui/controls/text.html
+
+Tutorial Two:
+a. When you create another activity, create an action callback, like onClick = "sendMessage".
+b. The sendMessage() should be public, void and parameter as "View view"
+c. Intent is an object at runtime binding two different components, such as two activities.
+   The intent represents an app's intent to do something. Usually intent is used to start
+   other activity
+d. new intent(current_activity, the_activity_users_wants_to_start);
