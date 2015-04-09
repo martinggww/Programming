@@ -1,0 +1,12 @@
+Tutorial two: OOP basics
+1. static function or variables are shared by all instances.
+2. private function can't be called by referenced object.
+3. Non-static function or variables can't be used in static function.
+4. abstract class can't be instanced.Period.
+5. All abstract methods must be overriden, but not all methods need to be overriden.
+
+6. Interface is class only has abstract methods
+7. You can add as many interfaces to a class using implementations as you want
+8. Use only public static and final fields.
+9. By default all methods are abstract, so no abstract key words are written.
+10.
