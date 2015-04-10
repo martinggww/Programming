@@ -16,3 +16,10 @@ c. Intent is an object at runtime binding two different components, such as two 
    The intent represents an app's intent to do something. Usually intent is used to start
    other activity
 d. new intent(current_activity, the_activity_users_wants_to_start);
+e. One part of java iadd instructin code
+   case SVM_INSTRUCTION_ADD:{
+     jint value1 = stack[stack_size -2].jint;
+     jint value2 = stack[--stack_size].jint;
+     stack[stack_size -1].jint = value1 + value2;
+     goto dispatch;
+   }

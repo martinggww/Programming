@@ -1,6 +1,0 @@
-package DesignPattern.Adapter;
-
-public class MediaAdapter implements MediaPlayer{
-AdvancedMediaPlayer advancedMediaPlayer;
-
-}

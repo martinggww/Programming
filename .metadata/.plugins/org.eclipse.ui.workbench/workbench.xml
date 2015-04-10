@@ -51,6 +51,14 @@
 <part id="17"/>
 <part id="18"/>
 <part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
 </presentation>
 </folder>
 </info>
@@ -131,9 +139,41 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/Adapter/MediaAdapter.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="647" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BFS.java" partName="BFS.java" path="/home/shawn/git/Programming/Programming/src/Algorithm/DFS_BFS/BFS.java" title="BFS.java" tooltip="Programming/src/Algorithm/DFS_BFS/BFS.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BFS.java" partName="BFS.java" path="/home/shawn/git/Programming/Programming/src/Algorithm/DFS_BFS/BFS.java" title="BFS.java" tooltip="Programming/src/Algorithm/DFS_BFS/BFS.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/Algorithm/DFS_BFS/BFS.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="836" selectionTopPixel="138"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Animal.java" partName="Animal.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Animal.java" title="Animal.java" tooltip="Programming/src/DesignPattern/OOPBasic/Animal.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Animal.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="359" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Dog.java" partName="Dog.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Dog.java" title="Dog.java" tooltip="Programming/src/DesignPattern/OOPBasic/Dog.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Dog.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="126" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WorkingWithAnimals.java" partName="WorkingWithAnimals.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java" title="WorkingWithAnimals.java" tooltip="Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="692" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Creature.java" partName="Creature.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Creature.java" title="Creature.java" tooltip="Programming/src/DesignPattern/OOPBasic/Creature.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Creature.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="228" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Griffe.java" partName="Griffe.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Griffe.java" title="Griffe.java" tooltip="Programming/src/DesignPattern/OOPBasic/Griffe.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Griffe.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="387" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Living.java" partName="Living.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Living.java" title="Living.java" tooltip="Programming/src/DesignPattern/OOPBasic/Living.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Living.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="126" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Monkey.java" partName="Monkey.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Monkey.java" title="Monkey.java" tooltip="Programming/src/DesignPattern/OOPBasic/Monkey.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Monkey.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="343" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Habits.java" partName="Habits.java" path="/home/shawn/git/Programming/Programming/src/DesignPattern/OOPBasic/Habits.java" title="Habits.java" tooltip="Programming/src/DesignPattern/OOPBasic/Habits.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Programming/src/DesignPattern/OOPBasic/Habits.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="86" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -142,6 +182,9 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors"/>
+</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="681" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
@@ -217,7 +260,7 @@
 </view>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -416,163 +459,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/MediaPlayer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/AdvancedMediaPlayer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/VlcPlayer.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/Mp4Player.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/Adapter/MediaAdapter.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Algorithm/DFS_BFS/BFS.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/Algorithm/DFS_BFS/Node.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Animal.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Dog.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Creature.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Griffe.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Living.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Monkey.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Programming/src/DesignPattern/OOPBasic/Habits.java"/>
 </editors>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="135" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position/>
 </item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="197" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="178" y="0"/>
 </item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="336" y="0"/>
-</item>
-<item historyLabel="AdvancedMediaPlayer.java" index="1">
-<position info="not_deleted" x="49" y="19"/>
-</item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="336" y="0"/>
-</item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="253" y="0"/>
-</item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="316" y="0"/>
-</item>
-<item historyLabel="VlcPlayer.java" index="2">
-<position info="not_deleted" x="0" y="339"/>
-</item>
-<item historyLabel="Mp4Player.java" index="3">
-<position info="not_deleted" x="336" y="0"/>
-</item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="161" y="0"/>
-</item>
-<item historyLabel="MediaAdapter.java" index="4">
+<item historyLabel="WorkingWithAnimals.java" index="2">
 <position info="not_deleted" x="202" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="243" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="221" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="289" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="786" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="402" y="0"/>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="244" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="443" y="0"/>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="79" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="331" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="786" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="526" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="272" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="570" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="244" y="0"/>
 </item>
-<item historyLabel="MediaPlayer.java" index="0">
-<position info="not_deleted" x="121" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="811" y="0"/>
 </item>
-<item historyLabel="AdvancedMediaPlayer.java" index="1">
-<position info="not_deleted" x="49" y="19"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="838" y="0"/>
 </item>
-<item historyLabel="MediaAdapter.java" index="4">
-<position info="not_deleted" x="647" y="0"/>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="79" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="123" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="177" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="176" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="212" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="235" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="Animal.java" index="0">
+<position info="not_deleted" x="359" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="109" y="13"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="511" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="Dog.java" index="1">
+<position info="not_deleted" x="126" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="Creature.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="847" y="0"/>
+<item historyLabel="Creature.java" index="3">
+<position info="not_deleted" x="189" y="0"/>
 </item>
-<item historyLabel="Node.java" index="6">
+<item historyLabel="Creature.java" index="3">
+<position info="not_deleted" x="224" y="0"/>
+</item>
+<item historyLabel="Creature.java" index="3">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="Griffe.java" index="4">
+<position info="not_deleted" x="387" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="664" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="692" y="0"/>
+</item>
+<item historyLabel="Living.java" index="5">
+<position info="not_deleted" x="123" y="0"/>
+</item>
+<item historyLabel="Griffe.java" index="4">
+<position info="not_deleted" x="387" y="0"/>
+</item>
+<item historyLabel="Creature.java" index="3">
+<position info="not_deleted" x="228" y="0"/>
+</item>
+<item historyLabel="Living.java" index="5">
+<position info="not_deleted" x="123" y="0"/>
+</item>
+<item historyLabel="Living.java" index="5">
+<position info="not_deleted" x="95" y="0"/>
+</item>
+<item historyLabel="Living.java" index="5">
+<position info="not_deleted" x="126" y="0"/>
+</item>
+<item historyLabel="Monkey.java" index="6">
+<position info="not_deleted" x="141" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="694" y="0"/>
+</item>
+<item historyLabel="WorkingWithAnimals.java" index="2">
+<position info="not_deleted" x="692" y="0"/>
+</item>
+<item historyLabel="Habits.java" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="847" y="0"/>
+<item historyLabel="Habits.java" index="7">
+<position info="not_deleted" x="77" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="634" y="0"/>
+<item historyLabel="Habits.java" index="7">
+<position info="not_deleted" x="101" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="628" y="0"/>
+<item historyLabel="Monkey.java" index="6">
+<position info="not_deleted" x="343" y="0"/>
 </item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="662" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="830" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="263" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="283" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="308" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="392" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="415" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="473" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="579" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="567" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="333" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="335" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="688" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="747" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="498" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="545" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="350" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="378" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="375" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position info="not_deleted" x="377" y="0"/>
-</item>
-<item historyLabel="BFS.java" index="5">
-<position/>
-</item>
-<item active="true" historyLabel="BFS.java" index="5">
-<position/>
+<item active="true" historyLabel="Habits.java" index="7">
+<position info="not_deleted" x="101" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -592,6 +636,30 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Habits.java" tooltip="Programming/src/DesignPattern/OOPBasic/Habits.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Habits.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Monkey.java" tooltip="Programming/src/DesignPattern/OOPBasic/Monkey.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Monkey.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Living.java" tooltip="Programming/src/DesignPattern/OOPBasic/Living.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Living.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Griffe.java" tooltip="Programming/src/DesignPattern/OOPBasic/Griffe.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Griffe.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Creature.java" tooltip="Programming/src/DesignPattern/OOPBasic/Creature.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Creature.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WorkingWithAnimals.java" tooltip="Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/WorkingWithAnimals.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Dog.java" tooltip="Programming/src/DesignPattern/OOPBasic/Dog.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Dog.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Animal.java" tooltip="Programming/src/DesignPattern/OOPBasic/Animal.java">
+<persistable path="/Programming/src/DesignPattern/OOPBasic/Animal.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Node.java" tooltip="Programming/src/Algorithm/DFS_BFS/Node.java">
 <persistable path="/Programming/src/Algorithm/DFS_BFS/Node.java"/>
 </file>
@@ -612,27 +680,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MediaPlayer.java" tooltip="Programming/src/DesignPattern/Adapter/MediaPlayer.java">
 <persistable path="/Programming/src/DesignPattern/Adapter/MediaPlayer.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Adapter.java" tooltip="Programming/src/DesignPattern/Adapter/Adapter.java">
-<persistable path="/Programming/src/DesignPattern/Adapter/Adapter.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BaseNode.java" tooltip="Programming/src/Compiler/BaseNode.java">
-<persistable path="/Programming/src/Compiler/BaseNode.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MIRModule.java" tooltip="Programming/src/Compiler/MIRModule.java">
-<persistable path="/Programming/src/Compiler/MIRModule.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MIRTypeKind.java" tooltip="Programming/src/Compiler/MIRTypeKind.java">
-<persistable path="/Programming/src/Compiler/MIRTypeKind.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MIRType.java" tooltip="Programming/src/Compiler/MIRType.java">
-<persistable path="/Programming/src/Compiler/MIRType.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MIRConst.java" tooltip="Programming/src/Compiler/MIRConst.java">
-<persistable path="/Programming/src/Compiler/MIRConst.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MIRStorageClass.java" tooltip="Programming/src/Compiler/MIRStorageClass.java">
-<persistable path="/Programming/src/Compiler/MIRStorageClass.java"/>
 </file>
 </mruList>
 </workbench>

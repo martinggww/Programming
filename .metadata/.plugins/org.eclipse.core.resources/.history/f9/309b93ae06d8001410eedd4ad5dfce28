@@ -1,6 +1,0 @@
-package DesignPattern.Adapter;
-
-public class VlcPlayer implements AdvancedMediaPlayer{
-	@Override
-	
-}

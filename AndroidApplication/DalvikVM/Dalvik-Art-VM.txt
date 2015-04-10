@@ -1,0 +1,15 @@
+Dalvik virtual machine.
+a. Each process has its own virtual machine. Android run mulitple virtual machines.
+b. DVM is built specificially for Android, addressing for battery life, processing power.
+c. Java tool is free but JVM is not free. So Google developers make their own VM.
+   It's like java source code ->Java Compiler->Java byte code->JVM.
+                                                             ->Dalvik byte codes->DVM
+d. Virtual machine is a software implementation of a machine that executes programs like
+   a hardware machine
+e. A set of registers, a stack(optional), an executable environment, a garbage-collected heap
+   a constant pool, A method storage area, an instruction set.
+f. OS virtual machine, process virtual machine, support execution of a single process.
+g. stack machine, load/store; register machine, instructions to be encoded in source and 
+   destination registers.
+
+file:///home/shawn/Downloads/dalvik-121127023525-phpapp02.pdf, page 38th
