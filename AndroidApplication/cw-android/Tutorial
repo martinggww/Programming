@@ -1,0 +1,39 @@
+Day 1, April 14th.
+Big Picture, What Androids are made of
+1. Activities
+   Building block of user activity
+2. Services
+   Services are backend running threads which are independent of services
+3. Content Providers
+   Content providers provide a level of abstraction for any data stored on
+   the device that is accessible by multiple applications.
+4. Intents
+   Intents are system message, running around the inside of device, notifying 
+   applications of various events, from hardware state change to incoming data.
+   You can create your own intents when creating activities.
+ 
+5. By user own
+   storage, network, multimedia, gps and phone services
+6. Android project tree structure:
+   a. AndroidManifest.xml, describes what project contains, services, activities, etc
+   b. bin/ 
+   c. libs/, third party java jars that your application requires
+   d. res/, resources, icons, gui layouts, 
+      res/drawable/ for images, png, jpeg files
+      res/layout/ for xml-based UI layout specifications.
+      res/menu/ for xml-based menu specifications.
+      res/raw/  for general purpose specifications.
+      res/values/   for strings, dimensions and the like
+      res/xml
+   
+   e. src/, java codes for the application
+   f. assets/, static files packaged with the application for deployment onto the device.
+   g. gen/, generated codes placed at.
+   h. R.java are created by Andriod system, and should not be touched.
+
+Chapter 6: Enhancing your first project
+Supporting multiple screens: small <3", normal 3-4.5", large 4.5-10", Extra-large over 10"
+
+
+Stops at Chapter 8
+                                                                                                                    

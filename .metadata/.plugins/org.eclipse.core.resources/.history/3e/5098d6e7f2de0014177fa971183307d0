@@ -1,0 +1,11 @@
+package DesignPattern.OOPBasic;
+
+public class WorkingWithAnimals {
+public static void main(String[] args){
+	
+	Animal dog = new Dog();
+	Animal[] animals = new Animal[4];
+	animals[0] = new Dog();
+	speakAnimal(dog);
+}
+}

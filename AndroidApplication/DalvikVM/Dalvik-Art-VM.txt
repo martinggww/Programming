@@ -13,3 +13,21 @@ g. stack machine, load/store; register machine, instructions to be encoded in so
    destination registers.
 
 file:///home/shawn/Downloads/dalvik-121127023525-phpapp02.pdf, page 38th
+h. Shared constant pool
+   Java bytecode to dalvik .dex code
+   constant pool
+   .jar file                .dex file
+   constant pool,           string_id[]  constant pool
+   data                     type_id[]
+                            proto_id[]
+   constant pool            fields_id[]
+   data                     methods_id[]
+shared constant pool
+less bytes, dispatches, reads and writes, which is GREAT!
+Stack virtual machine vs register virtual machine!
+
+i. Set byte ordering and structure alignment
+   Aligns the number variables to 32/64bits
+   Boundary 
+   Significant optimizations because of elimination of symbolic field/method lookup at runtime
+   Aid of Just-in-time compiler.

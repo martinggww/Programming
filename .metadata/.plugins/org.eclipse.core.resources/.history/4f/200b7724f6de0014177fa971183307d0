@@ -1,0 +1,9 @@
+package DesignPattern.OOPBasic;
+
+public abstract class Creature {
+
+	protected String name;
+	protected int weight;
+	protected String sound;
+	
+}

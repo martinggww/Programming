@@ -1,0 +1,16 @@
+package DesignPattern.OOPBasic;
+
+public class WorkingWithAnimals {
+	int name;
+public static void main(String[] args){
+	
+	Animal dog = new Dog();
+	Animal[] animals = new Animal[4];
+	animals[0] = new Dog();
+	speakAnimal(dog);
+}
+public static void speakAnimal(Animal animal){
+	
+	System.out.println(animal.getWeight());
+}
+}

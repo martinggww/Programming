@@ -27,6 +27,12 @@
                 android:value="lucas.trainone.MainActivity" />
         </activity>
 
+
+        <service android:name="MyFirst service">
+
+        </service>>
     </application>
 
 </manifest>
+
+
