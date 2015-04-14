@@ -1,3 +1,4 @@
+
 Tutorial two: OOP basics
 1. static function or variables are shared by all instances.
 2. private function can't be called by referenced object.
@@ -9,4 +10,24 @@ Tutorial two: OOP basics
 7. You can add as many interfaces to a class using implementations as you want
 8. Use only public static and final fields.
 9. By default all methods are abstract, so no abstract key words are written.
-10.
+
+Tutorial three: Strategy Pattern.
+
+If sub-classes have different behaviors, define an interface in parent/abstract
+class, and initiate the behaviors at run time.
+Animals
++flyingType : Flys-----------------><interface>     Flys
++tryToFly(): String                   ^              ^
++setFlyingAbility():void              | (implements) |
+^    (Extends)      ^             ItFlys         CantFly
+|                   |
+Dog                 Bird
+
+Use Strategy Pattern when:
+1. When you want to define a class that will have one behaivor that is 
+similar to other behaivors in a list
+2. When you want to use one of the behaviors dynamiclly.
+3. Often reduces long lists of conditional.
+4. Avoids duplicate code
+5. Can hide complicated/secret code from user
+6. Negative, increased number of objects or classes.
