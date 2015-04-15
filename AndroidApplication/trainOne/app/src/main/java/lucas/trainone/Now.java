@@ -35,3 +35,4 @@ public class Now extends Activity implements View.OnClickListener{
     }
 
 }
+

@@ -20,4 +20,10 @@
         android:text="@string/button_send"
         android:onClick="sendMessage"  />
 
+    <ImageView android:id="@+id/icon"
+        android:layout_weight="fill_parent"
+        android:layout_width="fill_parent"
+        android:adjustViewBounds="true"
+        android:src="@drawable/molecule"/>
+
 </LinearLayout>
