@@ -60,4 +60,17 @@ Chapter 11, Input method framework
 Page 182				  
 
 
-                                                                                                                    
+Day 3, April 16.
+WebKit, it's the same web browser engiee in Apple's Safari.
+a. WebKit is the package to support browser
+b. Also need add user-permission to request permission to access the internet.
+c. getSettings().setJavaScriptEnabled(true) to enable javascript
+d. Two ways to get contents into the browser
+   1. loadUrl(), the browser will access the internet through whatever means are available to
+      that specific device at that present time: Wifi, 2G, 3G, WiMax, 4G, etc
+   2. loadData(), supply the HTML for browser to view.
+   3. reload(), goBack(), goForward(), canGoForward(), clearCache()
+   4. when click the link, you want to make sure your links are handled properly. Either by loading
+      your own content back into the webview, or by some other means.
+   5.
+Page 205                                                                
