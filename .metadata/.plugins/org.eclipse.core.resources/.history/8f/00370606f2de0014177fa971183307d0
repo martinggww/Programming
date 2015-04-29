@@ -1,9 +1,0 @@
-package DesignPattern.OOPBasic;
-
-public class Animal {
-	private String name;
-	public void eat()
-	{
-		System.out.println("Eat");	
-	}
-}

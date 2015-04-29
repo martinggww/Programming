@@ -23,3 +23,5 @@ e. One part of java iadd instructin code
      stack[stack_size -1].jint = value1 + value2;
      goto dispatch;
    }
+
+
